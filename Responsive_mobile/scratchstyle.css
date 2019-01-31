@@ -1,0 +1,58 @@
+*{
+   padding: 0;
+   margin: 0;
+}
+
+body{
+   padding: 0;
+   margin: 0;
+}
+div.col-6{
+   padding: 0;
+   margin: 0;
+}
+.col-6 p{
+   font-size: 3rem;
+   text-align: center;
+   padding: 2rem;
+}
+.col-6 img{
+   display: none;
+   max-width: 100%;
+}
+div#category.container{
+   max-width: 100%;
+   padding: 0;
+   margin: 0;
+}
+.col-6 p{
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ color: white;
+ text-align: center;
+}
+#Vitamins{
+   background-image: url(C:\Projects\Bootstrap ecommerce\Responsive_mobile\blur-capsule-close-up-236401.jpg);
+}
+#Gummy{
+   background-image: url(C:\Projects\Bootstrap ecommerce\Responsive_mobile\alternative-aroma-aromatherapy-161599.jpg);
+
+}
+#Energy{
+   background-image: url(C:\Projects\Bootstrap ecommerce\Responsive_mobile\candies-colorful-colourful-65240.jpg);
+
+}
+#Sport{
+   background-image: url(C:\Projects\Bootstrap ecommerce\Responsive_mobile\alternative-background-color-105028.jpg);
+
+}
+#Herb{
+   background-image: url(C:\Projects\Bootstrap ecommerce\Responsive_mobile\cure-herbal-medications-50994.jpg);
+
+}
+#Oil{
+   background-image: url(action-athlete-athletics-618612.jpg);
+
+}
